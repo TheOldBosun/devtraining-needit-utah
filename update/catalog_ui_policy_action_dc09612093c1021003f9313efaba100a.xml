@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="NN_Lawrence_Test_Offering">c5b7ed6c9381021003f9313efaba109b</catalog_item>
+        <catalog_variable>IO:8968e1ec9381021003f9313efaba1020</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-16 18:26:12</sys_created_on>
+        <sys_id>dc09612093c1021003f9313efaba100a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>if_yes</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_dc09612093c1021003f9313efaba100a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-16 18:26:12</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make 'if_yes' mandatory &amp; visible depending on 'decision'">839829ec9381021003f9313efaba1095</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>if_yes</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=dc09612093c1021003f9313efaba100a"/>
+</record_update>
